@@ -8,7 +8,7 @@ __pycache__/
 venv/
 env/
 # Environment variables / secrets
-.env
+.env00.
 .env.*
 !.env.example
 # IDEs / editors
